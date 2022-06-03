@@ -1,2 +1,2 @@
-#!/bin/bash
-gcc -Wall -Werror
+#!/bim/bash
+puts
